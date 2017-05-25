@@ -8,39 +8,7 @@
 4 info git [ 'status', '--porcelain' ]
 5 verbose stack Error: Git working directory not clean.
 5 verbose stack M README.md
-5 verbose stack D binary_demo/binary-app.js
-5 verbose stack D binary_demo/binary-app.tag
-5 verbose stack D binary_demo/calcstore.js
-5 verbose stack D binary_demo/index.html
-5 verbose stack D binary_demo/js/es5-shim.js
-5 verbose stack D binary_demo/js/html5-shiv.js
-5 verbose stack D binary_demo/js/riot.min.js
-5 verbose stack D binary_demo/riotcontrol.js
-5 verbose stack D bower.json
-5 verbose stack D demo/index.html
-5 verbose stack D demo/js/es5-shim.js
-5 verbose stack D demo/js/html5-shiv.js
-5 verbose stack D demo/js/riot.js
-5 verbose stack D demo/riotcontrol.js
-5 verbose stack D demo/todo.css
-5 verbose stack D demo/todo.js
-5 verbose stack D demo/todo.tag
-5 verbose stack D demo/todoapp.js
-5 verbose stack D demo/todoapp.tag
-5 verbose stack D demo/todostore.js
-5 verbose stack M package.json
-5 verbose stack D riotcontrol.js
-5 verbose stack D routing_demo/index.html
-5 verbose stack D routing_demo/item-app.js
-5 verbose stack D routing_demo/item-app.tag
-5 verbose stack D routing_demo/item-detail.js
-5 verbose stack D routing_demo/item-detail.tag
-5 verbose stack D routing_demo/itemstore.js
-5 verbose stack D routing_demo/js/es5-shim.js
-5 verbose stack D routing_demo/js/html5-shiv.js
-5 verbose stack D routing_demo/js/riot.js
-5 verbose stack D routing_demo/riotcontrol.js
-5 verbose stack D routing_demo/todo.css
+5 verbose stack D npm-debug.log
 5 verbose stack     at /usr/local/lib/node_modules/npm/lib/version.js:247:19
 5 verbose stack     at /usr/local/lib/node_modules/npm/lib/utils/no-progress-while-running.js:21:8
 5 verbose stack     at ChildProcess.exithandler (child_process.js:197:7)
@@ -58,39 +26,7 @@
 10 error npm  v3.10.9
 11 error Git working directory not clean.
 11 error M README.md
-11 error D binary_demo/binary-app.js
-11 error D binary_demo/binary-app.tag
-11 error D binary_demo/calcstore.js
-11 error D binary_demo/index.html
-11 error D binary_demo/js/es5-shim.js
-11 error D binary_demo/js/html5-shiv.js
-11 error D binary_demo/js/riot.min.js
-11 error D binary_demo/riotcontrol.js
-11 error D bower.json
-11 error D demo/index.html
-11 error D demo/js/es5-shim.js
-11 error D demo/js/html5-shiv.js
-11 error D demo/js/riot.js
-11 error D demo/riotcontrol.js
-11 error D demo/todo.css
-11 error D demo/todo.js
-11 error D demo/todo.tag
-11 error D demo/todoapp.js
-11 error D demo/todoapp.tag
-11 error D demo/todostore.js
-11 error M package.json
-11 error D riotcontrol.js
-11 error D routing_demo/index.html
-11 error D routing_demo/item-app.js
-11 error D routing_demo/item-app.tag
-11 error D routing_demo/item-detail.js
-11 error D routing_demo/item-detail.tag
-11 error D routing_demo/itemstore.js
-11 error D routing_demo/js/es5-shim.js
-11 error D routing_demo/js/html5-shiv.js
-11 error D routing_demo/js/riot.js
-11 error D routing_demo/riotcontrol.js
-11 error D routing_demo/todo.css
+11 error D npm-debug.log
 12 error If you need help, you may report this error at:
 12 error     <https://github.com/npm/npm/issues>
 13 verbose exit [ 1, true ]
