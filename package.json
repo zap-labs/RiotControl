@@ -1,6 +1,6 @@
 {
   "name": "riotcontrol-requirejs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Event Controller / Dispatcher For RiotJS, Inspired By Flux - support for requirejs",
   "main": "riotcontrol.js",
   "files": [
