@@ -1,8 +1,6 @@
 RiotControl
 ============
 
-__UPDATE:__ Experimental multi-threaded version under [dev branch](https://github.com/jimsparkman/RiotControl/tree/dev).
-
 ```
 npm install riotcontrol-requirejs
 ```
