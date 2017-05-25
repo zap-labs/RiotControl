@@ -1,0 +1,96 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'version',
+1 verbose cli   'patch' ]
+2 info using npm@3.10.9
+3 info using node@v6.9.1
+4 info git [ 'status', '--porcelain' ]
+5 verbose stack Error: Git working directory not clean.
+5 verbose stack M README.md
+5 verbose stack D binary_demo/binary-app.js
+5 verbose stack D binary_demo/binary-app.tag
+5 verbose stack D binary_demo/calcstore.js
+5 verbose stack D binary_demo/index.html
+5 verbose stack D binary_demo/js/es5-shim.js
+5 verbose stack D binary_demo/js/html5-shiv.js
+5 verbose stack D binary_demo/js/riot.min.js
+5 verbose stack D binary_demo/riotcontrol.js
+5 verbose stack D bower.json
+5 verbose stack D demo/index.html
+5 verbose stack D demo/js/es5-shim.js
+5 verbose stack D demo/js/html5-shiv.js
+5 verbose stack D demo/js/riot.js
+5 verbose stack D demo/riotcontrol.js
+5 verbose stack D demo/todo.css
+5 verbose stack D demo/todo.js
+5 verbose stack D demo/todo.tag
+5 verbose stack D demo/todoapp.js
+5 verbose stack D demo/todoapp.tag
+5 verbose stack D demo/todostore.js
+5 verbose stack M package.json
+5 verbose stack D riotcontrol.js
+5 verbose stack D routing_demo/index.html
+5 verbose stack D routing_demo/item-app.js
+5 verbose stack D routing_demo/item-app.tag
+5 verbose stack D routing_demo/item-detail.js
+5 verbose stack D routing_demo/item-detail.tag
+5 verbose stack D routing_demo/itemstore.js
+5 verbose stack D routing_demo/js/es5-shim.js
+5 verbose stack D routing_demo/js/html5-shiv.js
+5 verbose stack D routing_demo/js/riot.js
+5 verbose stack D routing_demo/riotcontrol.js
+5 verbose stack D routing_demo/todo.css
+5 verbose stack     at /usr/local/lib/node_modules/npm/lib/version.js:247:19
+5 verbose stack     at /usr/local/lib/node_modules/npm/lib/utils/no-progress-while-running.js:21:8
+5 verbose stack     at ChildProcess.exithandler (child_process.js:197:7)
+5 verbose stack     at emitTwo (events.js:106:13)
+5 verbose stack     at ChildProcess.emit (events.js:191:7)
+5 verbose stack     at maybeClose (internal/child_process.js:877:16)
+5 verbose stack     at Socket.<anonymous> (internal/child_process.js:334:11)
+5 verbose stack     at emitOne (events.js:96:13)
+5 verbose stack     at Socket.emit (events.js:188:7)
+5 verbose stack     at Pipe._handle.close [as _onclose] (net.js:498:12)
+6 verbose cwd /Users/rylee/dev/RiotControl
+7 error Darwin 16.5.0
+8 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "version" "patch"
+9 error node v6.9.1
+10 error npm  v3.10.9
+11 error Git working directory not clean.
+11 error M README.md
+11 error D binary_demo/binary-app.js
+11 error D binary_demo/binary-app.tag
+11 error D binary_demo/calcstore.js
+11 error D binary_demo/index.html
+11 error D binary_demo/js/es5-shim.js
+11 error D binary_demo/js/html5-shiv.js
+11 error D binary_demo/js/riot.min.js
+11 error D binary_demo/riotcontrol.js
+11 error D bower.json
+11 error D demo/index.html
+11 error D demo/js/es5-shim.js
+11 error D demo/js/html5-shiv.js
+11 error D demo/js/riot.js
+11 error D demo/riotcontrol.js
+11 error D demo/todo.css
+11 error D demo/todo.js
+11 error D demo/todo.tag
+11 error D demo/todoapp.js
+11 error D demo/todoapp.tag
+11 error D demo/todostore.js
+11 error M package.json
+11 error D riotcontrol.js
+11 error D routing_demo/index.html
+11 error D routing_demo/item-app.js
+11 error D routing_demo/item-app.tag
+11 error D routing_demo/item-detail.js
+11 error D routing_demo/item-detail.tag
+11 error D routing_demo/itemstore.js
+11 error D routing_demo/js/es5-shim.js
+11 error D routing_demo/js/html5-shiv.js
+11 error D routing_demo/js/riot.js
+11 error D routing_demo/riotcontrol.js
+11 error D routing_demo/todo.css
+12 error If you need help, you may report this error at:
+12 error     <https://github.com/npm/npm/issues>
+13 verbose exit [ 1, true ]

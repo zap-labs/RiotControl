@@ -1,7 +1,7 @@
 {
-  "name": "riotcontrol",
+  "name": "riotcontrol-requirejs",
   "version": "0.0.3",
-  "description": "Event Controller / Dispatcher For RiotJS, Inspired By Flux",
+  "description": "Event Controller / Dispatcher For RiotJS, Inspired By Flux - support for requirejs",
   "main": "riotcontrol.js",
   "files": [
     "riotcontrol.js",
@@ -19,10 +19,10 @@
     "riotjs",
     "flux"
   ],
-  "author": "Jim Sparkman",
+  "author": "Ryan Lee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jimsparkman/RiotControl/issues"
+    "url": "https://github.com/captchadex/RiotControl/issues"
   },
-  "homepage": "https://github.com/jimsparkman/RiotControl"
+  "homepage": "https://github.com/captchadex/RiotControl"
 }
