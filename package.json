@@ -1,28 +1,19 @@
 {
-  "name": "riotcontrol-requirejs",
+  "name": "@zaplabs/riotcontrol-requirejs",
   "version": "0.0.7",
   "description": "Event Controller / Dispatcher For RiotJS, Inspired By Flux - support for requirejs",
   "main": "riotcontrol-requirejs.js",
-  "files": [
-    "riotcontrol.js",
-    "README.md",
-    "LICENSE.txt"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/captchadex/RiotControl"
+    "url": "https://github.com/zap-labs/RiotControl"
   },
   "keywords": [
     "riotjs",
     "flux"
   ],
   "author": "Ryan Lee",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/captchadex/RiotControl/issues"
-  },
-  "homepage": "https://github.com/captchadex/RiotControl"
+  "license": "MIT"
 }
