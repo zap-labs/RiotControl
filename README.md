@@ -2,7 +2,7 @@ RiotControl
 ============
 
 ```
-npm install riotcontrol-requirejs
+npm install @zaplabs/riotcontrol-requirejs
 ```
 
 A Simplistic Central Event Controller / Dispatcher For [RiotJS](https://github.com/muut/riotjs), Inspired By Facebook's [Flux](https://github.com/facebook/flux) Architecture Pattern.
